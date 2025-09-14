@@ -16,6 +16,8 @@ This is a **parody** game. I am not responsible for any damage caused by:
 
 A Flappy Bird clone controlled by your MacBook's lid sensor. Because apparently that's where we are in 2025.
 
+![Main Menu](main_menu.png)
+
 ### Features
 - 🐦 Animated bird that flaps
 - 🟢 Green pipes that hate you
@@ -27,10 +29,9 @@ A Flappy Bird clone controlled by your MacBook's lid sensor. Because apparently 
 - 🎮 Two game modes: Easy & Flappy
 ---
 
-## Installation/Running It
+## Installation
 
 ```bash
-git clone https://github.com/flappylid/FlappyLid.git && cd flappylid
 pip3 install --break-system-packages pygame pybooklid
 python3 flappy_lid.py
 ```
