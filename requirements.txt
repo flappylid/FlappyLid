@@ -1,0 +1,2 @@
+pygame>=2.6.0
+pybooklid>=1.0.0
